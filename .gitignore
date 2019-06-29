@@ -1,3 +1,4 @@
 src/com/skel/algoirthm/Q[a-z]*.java
 .idea
 /out/
+*.imi
