@@ -5,7 +5,7 @@ public class QKakao2018A implements Question{
         String[] answer = new String[n];
         for(int i=0; i<n;i++){
             int wall = 0;
-            for(int j=1; j<(1<<n);j=j<<1){
+                                                                    for(int j=1; j<(1<<n);j=j<<1){
                 wall += (arr1[i] & j) | (arr2[i] & j);
             }
 
