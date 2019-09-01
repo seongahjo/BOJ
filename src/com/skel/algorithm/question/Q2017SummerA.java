@@ -1,6 +1,6 @@
 package com.skel.algorithm.question;
 
-public class Q2017Summer2 implements Question {
+public class Q2017SummerA implements Question {
 
     int inDP[][] = new int[100001][2];
     int notDP[][] = new int[100001][2];
