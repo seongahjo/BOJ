@@ -5,7 +5,7 @@ import com.skel.algorithm.question.*;
 public class Main {
 
     public static void main(String[] args) {
-       Question q = new Q17292();
+       Question q = new Q11366();
        q.run();
 
     }
